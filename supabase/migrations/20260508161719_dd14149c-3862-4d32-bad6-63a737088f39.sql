@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Partner photos are publicly accessible" ON storage.objects;

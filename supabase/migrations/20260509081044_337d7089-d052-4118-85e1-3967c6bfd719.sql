@@ -1,0 +1,1 @@
+DELETE FROM public.partners WHERE id IN ('f30f15d7-850d-486f-85b9-380046ba2e70','705be757-4a2d-4625-b2a2-ce6c74879eb4');
