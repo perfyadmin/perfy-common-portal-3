@@ -36,7 +36,7 @@ export interface PerfyConfig {
 const KEY = "perfy.config.v1";
 
 const defaults: PerfyConfig = {
-  mainProductRedirect: "https://perfy-brain-mapping.netlify.app/",
+  mainProductRedirect: "https://perfy-brain-mapping.vercel.app/",
   otherServicesEnabled: true,
   studentReportUrl: "/reports/STUDENT.pdf",
   employerReportUrl: "/reports/EMPLOYEE.pdf",
